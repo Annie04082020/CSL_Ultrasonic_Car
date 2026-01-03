@@ -5,9 +5,10 @@
 > **Semester:** 114-1 (2025 Autumn)
 > **Author:** Annie Huang (第一組 111310452)
 
-![alt text](pictures/us_car_appearance1.jpg)
-
-![alt text](pictures/us_car_appearance2.jpg)
+<p align="center">
+  <img src="pictures/us_car_appearance1.jpg" alt="Side View" width="45%" />
+  <img src="pictures/us_car_appearance2.jpg" alt="Top View" width="45%" />
+</p>
 
 ## Project Overview
 
