@@ -82,8 +82,8 @@ The core control loop runs in `ultrasonic_control_motor.ino`:
 ```text
 .
 ├── ultrasonic_control_motor.ino  # Main Arduino Source Code
-├── test_relay.ino  # Testing Relay Function
-├── test_ultra_sound.ino  # Testing Ultrasonic Sensor Function
+├── test_relay.ino                # Testing Relay Function
+├── test_ultra_sound.ino          # Testing Ultrasonic Sensor Function
 ├── circuit_diagram.png           # Hardware Schematic
 └── README.md                     # Project Documentation
 
