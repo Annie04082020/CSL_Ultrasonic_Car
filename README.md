@@ -16,6 +16,10 @@ This project implements a **closed-loop control autonomous vehicle** capable of 
 
 Unlike typical Arduino projects that rely on pre-made motor driver modules (e.g., L298N), this project features a **custom-designed H-Bridge driver** built from discrete components (BJTs and Relays). This approach demonstrates a deep understanding of low-level hardware control, current paths, and back-EMF protection.
 
+### DEMO on Youtube
+
+[!114-1 (2025 Fall) NTUT EE CSL Final Project Ultrasonic Car](https://img.youtube.com/vi/PnYiFTAQHQA/0.jpg)](https://www.youtube.com/watch?v=PnYiFTAQHQA)
+
 ## Key Features
 
 ![alt text](pictures/circuit_diagram.png)
