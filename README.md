@@ -18,7 +18,7 @@ Unlike typical Arduino projects that rely on pre-made motor driver modules (e.g.
 
 ### DEMO on Youtube
 
-[!114-1 (2025 Fall) NTUT EE CSL Final Project Ultrasonic Car](https://img.youtube.com/vi/PnYiFTAQHQA/0.jpg)](https://www.youtube.com/watch?v=PnYiFTAQHQA)
+[![114-1 (2025 Fall) NTUT EE CSL Final Project Ultrasonic Car](https://img.youtube.com/vi/PnYiFTAQHQA/0.jpg)](https://www.youtube.com/watch?v=PnYiFTAQHQA)
 
 ## Key Features
 
