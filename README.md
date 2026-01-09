@@ -5,10 +5,19 @@
 > **Semester:** 114-1 (2025 Autumn)
 > **Author:** Annie Huang (第一組 111310452)
 
+[**Technical Report (ZH)**](docs/CSL_Ultrasonic_Car_zhtw.pdf) (Link)
+[**Technical Report (EN)**](docs/Technical_Report.pdf) (Link)
+
+### Appearence View
+
 <p align="center">
   <img src="pictures/us_car_appearance1.jpg" alt="Side View" width="45%" />
   <img src="pictures/us_car_appearance2.jpg" alt="Top View" width="45%" />
 </p>
+
+### Portable Semi-enclosed Anti-interference Test Arena
+
+<img src="pictures/portable_testing_arena.jpg" width="480">
 
 ## Project Overview
 
@@ -19,10 +28,15 @@ Unlike typical Arduino projects that rely on pre-made motor driver modules (e.g.
 ### DEMO on Youtube
 
 [![114-1 (2025 Fall) NTUT EE CSL Final Project Ultrasonic Car](https://img.youtube.com/vi/PnYiFTAQHQA/0.jpg)](https://www.youtube.com/watch?v=PnYiFTAQHQA)
+[![114-1 (2025 Fall) NTUT EE CSL Final Project  Ultrasonic Car - Loadless Testing](https://img.youtube.com/vi/0NbcWIxJxgI/0.jpg)](https://www.youtube.com/watch?v=0NbcWIxJxgI)
+
+## Story
+
+This project is a **retrofitting initiative**. I repurposed an old primary school educational toy car chassis, bypassing its original limitations by building a custom driver circuit and implementing modern control algorithms (Bang-Bang with Deadband) on an Arduino.
 
 ## Key Features
 
-![alt text](pictures/circuit_diagram.png)
+![Circuit Diagram](pictures/circuit_diagram.png)
 
 ### 1. Hardware: Discrete Component H-Bridge
 
@@ -108,4 +122,4 @@ This project is open-source for educational purposes.
 
 ---
 
-_Created by Annie Huang, NTUT EE._
+_Created by Annie Huang, NTUT EE. 2026_
